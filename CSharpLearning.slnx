@@ -1,0 +1,33 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/01-Fundamentals/" />
+  <Folder Name="/src/01-Fundamentals/01-HelloWorld/">
+    <Project Path="src/01-Fundamentals/01-HelloWorld/HelloWorld.csproj" />
+  </Folder>
+  <Folder Name="/src/01-Fundamentals/02-Variables/">
+    <Project Path="src/01-Fundamentals/02-Variables/Variables.csproj" />
+  </Folder>
+  <Folder Name="/src/01-Fundamentals/03-ConsoleIO/">
+    <Project Path="src/01-Fundamentals/03-ConsoleIO/ConsoleIO.csproj" />
+  </Folder>
+  <Folder Name="/src/01-Fundamentals/04-NullAndNullable/">
+    <Project Path="src/01-Fundamentals/04-NullAndNullable/NullAndNullable.csproj" />
+  </Folder>
+  <Folder Name="/src/02-OperatorsAndTypes/" />
+  <Folder Name="/src/02-OperatorsAndTypes/01-DataTypes/">
+    <Project Path="src/02-OperatorsAndTypes/01-DataTypes/DataTypes.csproj" />
+  </Folder>
+  <Folder Name="/src/02-OperatorsAndTypes/02-ArithmeticOperators/">
+    <Project Path="src/02-OperatorsAndTypes/02-ArithmeticOperators/ArithmeticOperators.csproj" />
+  </Folder>
+  <Folder Name="/src/02-OperatorsAndTypes/03-ComparisonOperators/">
+    <Project Path="src/02-OperatorsAndTypes/03-ComparisonOperators/ComparisonOperators.csproj" />
+  </Folder>
+  <Folder Name="/src/02-OperatorsAndTypes/04-LogicalOperators/">
+    <Project Path="src/02-OperatorsAndTypes/04-LogicalOperators/LogicalOperators.csproj" />
+  </Folder>
+  <Folder Name="/src/03-ControlFlow/" />
+  <Folder Name="/src/03-ControlFlow/01-ExamGradeCalculator/">
+    <Project Path="src/03-ControlFlow/01-ExamGradeCalculator/ExamGradeCalculator.csproj" />
+  </Folder>
+</Solution>
